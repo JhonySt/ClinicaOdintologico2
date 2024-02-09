@@ -32,3 +32,4 @@ El sistema se cro usando las sigientes tecnologias:
 
 ### Screenshot
 ![Image text]([[/path/to/the/screenshot.png](https://ibb.co/rMw1bhJ](https://ibb.co/rMw1bhJ)https://ibb.co/rMw1bhJ))
+![texto cualquiera por si no carga la imagen](https://ibb.co/rMw1bhJ)
