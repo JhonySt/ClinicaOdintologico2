@@ -95,7 +95,7 @@ public class SvOdontologo extends HttpServlet {
             odontologo.setUnHorario(horario);
             odontologo.setUnUsuario(usuario);
             
-            //control.crearOdontologo(odontologo);
+            control.crearOdontologo(odontologo);
             System.out.println(request.getParameter("hora"));
             
             response.sendRedirect("index.jsp");

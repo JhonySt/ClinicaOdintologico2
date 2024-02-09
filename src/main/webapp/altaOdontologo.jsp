@@ -8,7 +8,7 @@
             String usuario = (String) request.getSession().getAttribute("username");
             String rol = (String) request.getSession().getAttribute("rol");
             
-            if(rol != "Administrador"){
+            if(!"Administrador".equals(rol)){
                 response.sendRedirect("sinPermiso.jsp");
             }
     %>

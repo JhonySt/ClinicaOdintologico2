@@ -44,9 +44,5 @@
             </div>
         </div>
     </div>
-    
 
-
-
-    
     <%@include file="components/bodyFinal.jsp" %>
