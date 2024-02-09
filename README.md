@@ -31,4 +31,4 @@ El sistema se cro usando las sigientes tecnologias:
  - MySql como motor de bases de datos.
 
 ### Screenshot
-![Image text](/path/to/the/screenshot.png)
+![Image text]([[/path/to/the/screenshot.png](https://ibb.co/rMw1bhJ](https://ibb.co/rMw1bhJ)https://ibb.co/rMw1bhJ))
